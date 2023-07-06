@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/cui/cmake_test/./math 
+C_INCLUDES = -I/home/cui/cmake_test/math 
 

@@ -79,7 +79,6 @@ Qiquan_EXTERNAL_OBJECTS =
 
 Qiquan: CMakeFiles/Qiquan.dir/main.c.o
 Qiquan: CMakeFiles/Qiquan.dir/build.make
-Qiquan: math/libMathFunctions.a
 Qiquan: CMakeFiles/Qiquan.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cui/cmake_test/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable Qiquan"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Qiquan.dir/link.txt --verbose=$(VERBOSE)

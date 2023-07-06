@@ -123,19 +123,6 @@ Qiquan/fast:
 	$(MAKE) -f CMakeFiles/Qiquan.dir/build.make CMakeFiles/Qiquan.dir/build
 .PHONY : Qiquan/fast
 
-#=============================================================================
-# Target rules for targets named MathFunctions
-
-# Build rule for target.
-MathFunctions: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 MathFunctions
-.PHONY : MathFunctions
-
-# fast build rule for target.
-MathFunctions/fast:
-	$(MAKE) -f math/CMakeFiles/MathFunctions.dir/build.make math/CMakeFiles/MathFunctions.dir/build
-.PHONY : MathFunctions/fast
-
 main.o: main.c.o
 
 .PHONY : main.o
@@ -172,7 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Qiquan"
-	@echo "... MathFunctions"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
