@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Qiquan.dir/main.c.o  -o Qiquan  math/libMathFunctions.a 

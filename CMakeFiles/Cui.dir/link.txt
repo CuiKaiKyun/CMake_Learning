@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Cui.dir/main.c.o CMakeFiles/Cui.dir/operator_plus.c.o  -o Cui 

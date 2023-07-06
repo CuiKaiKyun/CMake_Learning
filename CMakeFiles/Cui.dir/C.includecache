@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cui/cmake_test/operator_plus.c
+operator_plus.h
+/home/cui/cmake_test/operator_plus.h
+
+/home/cui/cmake_test/operator_plus.h
+
